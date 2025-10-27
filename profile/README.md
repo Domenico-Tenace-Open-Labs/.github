@@ -10,6 +10,10 @@
 - 📚 **Guides & Documentation** → technical resources and best practices  
 - 🧠 **Educational Materials** → notes and learning content for students and devs  
 
+## Projects
+
+💻 Web Apps:
+- [App Repo](https://github.com/Domenico-Tenace-Open-Labs/app-repo): simple app storage cloud based, built in Nuxt.
 
 ## Contributing
 
