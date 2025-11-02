@@ -5,7 +5,7 @@
 
 ## What you'll find here
 
-- 💻 **Web Apps & Frameworks** → tools and solutions for the modern web  
+- 💻 **Web Apps,Frameworks & Libraries** → tools and solutions for the modern web  
 - 🎨 **Templates & Starter Kits** → ready-to-use project foundations  
 - 📚 **Guides & Documentation** → technical resources and best practices  
 - 🧠 **Educational Materials** → notes and learning content for students and devs  
@@ -14,6 +14,22 @@
 
 💻 Web Apps:
 - [App Repo](https://github.com/Domenico-Tenace-Open-Labs/app-repo): simple app storage cloud based, built in Nuxt.
+- [Glif](https://github.com/Domenico-Tenace-Open-Labs/glif): minimalist and intuitive web app for creating and managing QR Codes.
+
+📚 Libraries:
+- [Easy Kit Component](https://github.com/Domenico-Tenace-Open-Labs/easy-kit-component): simple components kit for Vue 3.
+- [Easy Kit Utils](https://github.com/Domenico-Tenace-Open-Labs/easy-kit-utils): simple JavaScript kit for common utils.
+
+💻 Apps:
+- [Uno Counter App](https://github.com/Domenico-Tenace-Open-Labs/UnoCounterApp): simple counter app made with Uno Platform to try the new feature Hot Design.
+
+🎨 Templates:
+- [Astro Minimal](https://github.com/Domenico-Tenace-Open-Labs/astro-minimal): an open source blog template build with Astro and Bulma.
+
+📚 Documentation:
+- [Daily Prompt](https://github.com/Domenico-Tenace-Open-Labs/daily-prompt): a collection of prompts designed to automate various processes.
+- [Bash Scripts](https://github.com/Domenico-Tenace-Open-Labs/bash-scripts-repo): a collection of Bash scripts designed to automate various tasks and operations.
+
 
 ## Contributing
 
