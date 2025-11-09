@@ -41,7 +41,8 @@ To participate:
 
 Have an idea or feedback? Open an **issue** or reach out directly!
 
-
+## Join now
+Open an issue [here](https://github.com/Domenico-Tenace-Open-Labs/community/issues/new?template=join-request.yml) to get invited to community on GitHub.
 
 ## Support the project
 
